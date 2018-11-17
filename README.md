@@ -1,1 +1,1 @@
-# kaggle_twosigma
+# kaggle-two-sigma-financial-news
